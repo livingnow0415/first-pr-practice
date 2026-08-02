@@ -1,6 +1,6 @@
 # First PR Practice
 
-This is a small practice repository for learnning the GitHub pull request workflow with Claude Code.
+This is a small practice repository for learning the GitHub pull request workflow with Claude Code.
 
 ## What this repo is for
 
